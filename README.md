@@ -3,9 +3,9 @@
 <h3 align="center">A passionate 3D Designer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/F-yKCUOl6L4AAAAC/box-3d.gif">
 
-- 🔭 I’m currently working on **Scene Creation**
+- 🔭 I’m currently working on **Product Animation**
 
-- 🌱 I’m currently learning **3D DESIGNING**
+- 🌱 I’m currently learning **TO BE CREATIVE**
 
 - 💬 Ask me about **Blender**
 
