@@ -1,13 +1,13 @@
 [![MasterHead](https://www.liveprompter.com/wp-content/uploads/2017/09/hello-world-banner.jpg)](https://github.com/)
 <h1 align="center">Hi 👋, I'm Mayank Sharma</h1>
-<h3 align="center">A passionate Python Developer from INDIA</h3>
+<h3 align="center">A passionate Tech Guy</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/F-yKCUOl6L4AAAAC/box-3d.gif">
 
-- 🔭 I’m currently working on **AI Projects**
+- 🔭 I’m currently working on **Data Analysis Projects**
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Data Analysis**
 
-- 💬 Ask me about **Python and it's Libraries**
+- 💬 Ask me about **Technologies**
 
 - 📫 How to reach me **mayanksharma291103@gmail.com**
 
